@@ -3,7 +3,7 @@ Um bot disponivel para a Twitch.
 
 Para começar tem de instalar node.js (https://nodejs.org/en/) e instalar; <br/>
 Seguidamente abrem o CMD e direcionam para a pasta onde querem criar o bot; <br/>
-Usam o comando ( npm i tmi.js --save ); <br/>
+Usam o comando  `` npm i `` ; <br/>
 Abram o vosso editor ,como por exemplo, Visual Studio Code, Atom, etc.; <br/>
 Colocam os ficheiros disponiveis na pasta; <br/>
 E abram o ficheiro index.js; <br/>
